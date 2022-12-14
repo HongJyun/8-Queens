@@ -4,17 +4,28 @@ Each solution contains a distinct board configuration of the 8-queens' placement
 
 --------
 Example solution for 4-queen puzzle
+
 Output:
 
-// Solution 1
+
+// Solution 1 
+
 .Q..  
+
 ...Q
+
 Q...
+
 ..Q.
 
 
-// Solution 2
+
+// Solution 2 
+
 ..Q.
+
 Q...
+
 ...Q
+
 .Q..
